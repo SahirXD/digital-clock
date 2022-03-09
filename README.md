@@ -4,7 +4,7 @@ This is simple **digital clock.**
 
 **installation**
 
-``` git clone https://github.com/SahirXD/digital-clock.git```
+``` git clone https://github.com/SahirXD/digital-clock```
 
 **Language Used**
 
