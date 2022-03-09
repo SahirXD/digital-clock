@@ -1,6 +1,6 @@
 This is simple **digital clock.**
 
-![Digital Clock](https://github.com/SahirXD/digital-clock/blob/master/Assets/icons/digital-clock.png)
+![Digital Clock](https://github.com/SahirXD/digital-clock/blob/main/Assets/icons/digital-clock.png)
 
 **installation**
 
