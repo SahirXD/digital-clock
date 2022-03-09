@@ -15,4 +15,4 @@ This is simple **digital clock.**
 ```
 **Bugs**
 
-  Beep sound Automatical pause/off😞
+  Beep sound Automatic paused/off😞
